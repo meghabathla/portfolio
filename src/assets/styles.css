@@ -9,11 +9,8 @@ body {
   background-blend-mode: lighten;
   font-family: "__whyte_5bb98a";
   font-size: 16;
-  
-  
-  
-
 }
+
 :root{
   --gradient:linear-gradient(
     to right,
